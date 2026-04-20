@@ -1,0 +1,17 @@
+{
+  "engagement_id": null,
+  "target": null,
+  "scope": [],
+  "phase": "idle",
+  "sessions": [],
+  "findings_count": 0,
+  "creds_count": 0,
+  "last_action": null,
+  "last_active": "2026-04-20T18:06:31.022Z",
+  "notes": [],
+  "installed_tools": [
+    "nmap"
+  ],
+  "last_shutdown": "2026-04-19T15:08:19.795Z",
+  "shutdown_signal": "SIGTERM"
+}
